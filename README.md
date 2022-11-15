@@ -8,6 +8,14 @@ The main content of this community contribution is a tutorial on exploratory dat
 
 We designed the Community Contribution based on the 9-th to 13-rd chapters of the [edav information website](https://edav.info/).
 
+### Chapter 1
+
+Click [here](https://seaborn.pydata.org/generated/seaborn.histplot.html) to see detailed information of `histplot()`.
+
+Click [here](https://seaborn.pydata.org/generated/seaborn.boxplot.html) to see detailed information of `boxplot()`.
+
+Click [here](https://seaborn.pydata.org/generated/seaborn.FacetGrid.html) to see detailed information of `FacetGrid()`.
+
 ### Chapter 2
 
 Click [here](https://seaborn.pydata.org/generated/seaborn.countplot.html#seaborn.countplot) to see detailed information of `countplot()`.
@@ -28,3 +36,12 @@ Click [here ](https://pandas.pydata.org/docs/reference/api/pandas.plotting.paral
 
 Click [here](https://plotly.com/python/parallel-coordinates-plot/) to see detailed information of `parallel_coordinates()` in `plotly`.
 
+### Chapter 5
+
+Click [here](https://seaborn.pydata.org/generated/seaborn.barplot.html) to see detailed information of `barplot`.
+
+Click [here](https://seaborn.pydata.org/generated/seaborn.catplot.html) to see detailed information of `catplot`.
+
+Click [here](https://www.statsmodels.org/dev/generated/statsmodels.graphics.mosaicplot.mosaic.html) to see detailed information of `mosaic` in `statsmodels`.
+
+Click [here](https://seaborn.pydata.org/generated/seaborn.heatmap.html) to see detailed information of `heatmap`.
