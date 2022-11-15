@@ -1,6 +1,7 @@
 # Data visualization using Seaborn
 
 Visualization of data can help data scientists perform exploratory analysis of data more efficiently. By taking the EDAV course, we learned about exploratory data visualization and analysis using `R` language. However, considering that most of the students are more familiar with the `Python` language, we decided to present some of the content of the EDAV course through `Python`.
+
 The main content of this community contribution is a tutorial on exploratory data visualization and analysis using the Python third-party library `seaborn`.
 
 ## Reference
